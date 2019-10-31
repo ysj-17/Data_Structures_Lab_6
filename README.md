@@ -1,1 +1,4 @@
-# Data_Structures_Lab_6
+**Tree Rotations**
+
+Using rotations to make a complete tree from a degenerate tree
+

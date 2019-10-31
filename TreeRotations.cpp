@@ -1,11 +1,7 @@
-// Program Name: Lab6
+// Program Name: Tree Rotations
 //
 // Description:  
 //  Using rotations to make a complete tree from a degenerate tree
-//
-// What's on your mind about this lab?
-//  This was hard... I couldn't think of a way to do rotations automatically
-//	I had to do rotations by hand or call the rotation functions by hand
 //  
 // Author: Jason Yoon
 //
